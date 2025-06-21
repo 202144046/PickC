@@ -34,7 +34,7 @@ PickC/
 │   ├── src/
 │   │   ├── App.jsx        # 주요 컴포넌트
 │   │   └── assets/logo.png
-│   └── public/index.html
+│   └── index.html
 │
 └── README.md              # 프로젝트 설명 파일
 ```
