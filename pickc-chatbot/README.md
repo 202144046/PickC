@@ -9,7 +9,6 @@ React와 TailwindCSS 기반으로 구성되었으며, Vite 개발 서버를 통�
 
 | 정식 로고 (`logo.jpeg`) | 미니 로고 (`miniLogo.jpeg`) |
 |-------------------------|-----------------------------|
-| ![logo](./src/assets/logo.jpeg) | ![miniLogo](./src/assets/miniLogo.jpeg) |
 
 ---
 
